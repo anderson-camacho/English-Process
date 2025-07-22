@@ -17,6 +17,8 @@ Examples:
  - Would you rather give up watching TV/movies for a year or giuve up playing games for a year?
   - for this case, I would rather give up playing games for a year.
    - In this case I can explain the my choose is the movies an tv series beosuce is better for me, I like more that.
+
+
 ---
 
 Resume Class
@@ -28,11 +30,6 @@ Resume Class
     - Be respect.
     - Feel free make any question.
     - Camera on all the time.
-
-- **Límites:**  
-  - El concurso no cubre desarrollo completo post-implementación más allá de un periodo acordado de mentoría o piloto.  
-  - No incluye obligaciones de contratación indefinida de estudiantes, aunque pueden surgir acuerdos separados.  
-  - La inversión de universidades y empresas se orienta a fases de concurso y piloto.
 
 ---
 
