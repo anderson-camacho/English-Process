@@ -62,7 +62,7 @@ Generally: 80:
 Often: 70%
 Frequenlly: 70%
 Sometimes : 50%
-Soderm
+Soldem: 30%
 
 This frecuently is for make answer for the ask, how many time do you make or do you do that.
 
