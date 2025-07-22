@@ -1,8 +1,11 @@
 # First Class English
 
-## Description
-Course 6: English for Adults
+## Development
 
+
+
+The important dates:
+<img width="1188" height="813" alt="image" src="https://github.com/user-attachments/assets/1a055002-bb7e-42c5-b774-1b82bdcb0d33" />
 
 Resume Class
 - In this class i do my presentation for the class, I speck about me and check the data for the teacher.
@@ -13,3 +16,7 @@ Resume Class
 -   Be respect.
 -   Feel free make any question.
 -   Camera on all the time.
+
+Contact English Teacher:
+
+<img width="815" height="452" alt="image" src="https://github.com/user-attachments/assets/adefbe10-bdc9-4fea-be5c-9a14532eb2c2" />
