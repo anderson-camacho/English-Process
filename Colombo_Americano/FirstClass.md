@@ -15,19 +15,19 @@ This Question to do when you need make desicion about the someone.
 
 Examples: 
  - Would you rather give up watching TV/movies for a year or giuve up playing games for a year?
- -   for this case, I would rather give up playing games for a year.
- -     In this case I can explain the my choose is the movies an tv series beosuce is better for me, I like more that.
+  - for this case, I would rather give up playing games for a year.
+   - In this case I can explain the my choose is the movies an tv series beosuce is better for me, I like more that.
 ---
 
 Resume Class
 - In this class i do my presentation for the class, I speck about me and check the data for the teacher.
 - We make the "Intoduce yourself"
 - In the class, the teacher make the presetation the course, presentation and topics from the course.
-- The Teacher said the "Rules of the class".
--   Be on time.
--   Be respect.
--   Feel free make any question.
--   Camera on all the time.
+ - The Teacher said the "Rules of the class".
+  - Be on time.
+  - Be respect.
+  - Feel free make any question.
+  - Camera on all the time.
 
 ---
 
