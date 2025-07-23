@@ -46,6 +46,22 @@ Verbs for emotions
 I love watching Tv
 I don't love watching Tv
 
+i dont enjoy to clean - se enfoca en el resultado de la accion
+i dont enjoy cleaning - se enfoca en la accion
+
+**be interested in+ verb  ing**
+I am interested in ...
+I am not intersted in ... 
+
+dont mind : algo que no importa que noe s grave
+
+can stand ...
+can't stand ...
+
+i can't stand traveling with out bad cooler in the car
+
+
+the recomendation is more common with werb-ing
 ---
 ## Resume
 
