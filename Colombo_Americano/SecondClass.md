@@ -31,6 +31,7 @@ How often do you daydream about vacations during meetings?
 what kind of ... rewsto sentence like : what kind of music sing in the shower
 
 reading activity
+
 <img width="673" height="710" alt="image" src="https://github.com/user-attachments/assets/718a43f1-ecee-4f4e-8665-73e7c0240230" />
 
 <img width="658" height="366" alt="image" src="https://github.com/user-attachments/assets/f3ab964f-7688-42db-98d3-2fab4b223140" />
@@ -39,6 +40,7 @@ reading activity
 
 
 Verbs for emotions
+
 <img width="626" height="368" alt="image" src="https://github.com/user-attachments/assets/27c707d4-a85b-490f-993f-ba18489c3334" />
 
 I love watching Tv
