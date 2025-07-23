@@ -20,17 +20,12 @@ How often do you do those activities
 
 this is the exercise:
 
-|        |ACTIVITY                      |HOW OFTEN  |
-|-----------|-----------|-----------|
-|JOSEPH  |Excercise, he likes go to swing |twice a week|
-|VICTORIA|Excercise, yoga|three times a week|
-|CARLOS  |play tennis|-----------|
+|        |ACTIVITY                            |HOW OFTEN           |
+|--------|------------------------------------|--------------------|
+|JOSEPH  |Excercise, he likes go to swing     |twice a week        |
+|VICTORIA|Excercise, yoga                     |three times a week  |
+|CARLOS  |play tennis                         |                    |
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
 ---
