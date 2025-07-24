@@ -31,3 +31,8 @@ and this is the activities dfor explain tomorrew
 
 Stargazing, Take care exotic pets
 
+
+## Resumen
+
+This sesione we preparae activity for the next class, is about the conversation with thiferents points.
+
