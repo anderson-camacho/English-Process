@@ -14,3 +14,7 @@ this is the theory and this is the activity
 
 simple past
 <img width="734" height="418" alt="image" src="https://github.com/user-attachments/assets/775dcd03-6853-4409-a3fc-d099f5a5951f" />
+
+
+simple present
+<img width="696" height="423" alt="image" src="https://github.com/user-attachments/assets/7382887d-ea88-4a75-bd35-4b4c9cad0789" />
