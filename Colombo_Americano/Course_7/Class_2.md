@@ -12,3 +12,5 @@ this is the theory and this is the activity
 <img width="753" height="423" alt="image" src="https://github.com/user-attachments/assets/91f3b0a4-1a43-47e3-a7fd-c4bddeb3b5ff" />
 
 
+simple past
+<img width="734" height="418" alt="image" src="https://github.com/user-attachments/assets/775dcd03-6853-4409-a3fc-d099f5a5951f" />
