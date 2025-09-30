@@ -119,6 +119,8 @@
 * Escribe un párrafo (6–8 líneas) comparando **metro vs. bus** con **advantages & disadvantages**.
 * Incluye: 2 **modals**, 1 **Present Perfect**, 1 **Past Perfect**.
 
----
 
-Si quieres, puedo **corregir** tus respuestas de la sección 6/7 **sin reescribir todo** (solo marcando errores y sugerencias). ¿Te armo también una **rubrica** simple para autoevaluarte?
+
+para estac alse tambien vimos los modal verbs for rules and you can make the can have to y eso dont have to o cant
+
+
