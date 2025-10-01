@@ -123,4 +123,12 @@
 
 para estac alse tambien vimos los modal verbs for rules and you can make the can have to y eso dont have to o cant
 
+Diana, sobre la factura de septiembre: no sé si viste que la rechazaron. Vi que Contabilidad la envió nuevamente. Quedo pendiente de la respuesta para saber si debemos reenviarla. Si es así, la enviamos mañana.
+
+will/won't
+
+<img width="906" height="520" alt="image" src="https://github.com/user-attachments/assets/2bbdebe9-ac32-40fb-bc62-2c61514af30c" />
+
+
+<img width="729" height="601" alt="image" src="https://github.com/user-attachments/assets/e87cdfbe-7695-45d0-a842-f173ad35ac7a" />
 
