@@ -6,3 +6,11 @@ The next image, is the program for this course,
 
 I prepare the notes pfor this class.
 
+
+
+<img width="1039" height="578" alt="image" src="https://github.com/user-attachments/assets/4355ec2f-8ef5-482d-8a5a-daaefa1029b2" />
+
+The activity was write the differents actions about the one text
+
+<img width="1057" height="574" alt="image" src="https://github.com/user-attachments/assets/bc3a0a86-56ef-4f54-a93e-095bbaeaf3ae" />
+
