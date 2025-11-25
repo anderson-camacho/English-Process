@@ -14,3 +14,34 @@ The activity was write the differents actions about the one text
 
 <img width="1057" height="574" alt="image" src="https://github.com/user-attachments/assets/bc3a0a86-56ef-4f54-a93e-095bbaeaf3ae" />
 
+NExt activity the present simple and present continuos
+
+<img width="973" height="509" alt="image" src="https://github.com/user-attachments/assets/71a8f542-1cc3-4f85-8713-5b7994573529" />
+
+my solution:
+I usually sleep 7 hours every night.
+
+She doesn't go to bed late on weekdays.
+
+We are watching TV in bed right now.
+
+He always wakes up at 6:30.
+
+I am drinking more coffee this week.
+
+They aren't sleeping well these days.
+
+My brother takes a nap every Sunday.
+
+Right now, I am trying to sleep earlier.
+
+She sometimes feels tired in the morning.
+
+At the moment, we are working long hours, so we are sleeping less.
+
+He normally goes to bed at 11:00, but tonight he is staying up late.
+
+People usually need around 7 or 8 hours of sleep.
+
+She usually drinks tea before bed, but today she is having hot milk.
+
