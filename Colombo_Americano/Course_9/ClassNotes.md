@@ -45,3 +45,8 @@ People usually need around 7 or 8 hours of sleep.
 
 She usually drinks tea before bed, but today she is having hot milk.
 
+
+
+for the today we see this 
+
+ present and conintinuos presnt simple and presnet continuos
