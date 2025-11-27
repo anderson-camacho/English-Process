@@ -50,3 +50,8 @@ She usually drinks tea before bed, but today she is having hot milk.
 for the today we see this 
 
  present and conintinuos presnt simple and presnet continuos
+
+ Today we learn about this 
+
+ <img width="581" height="563" alt="image" src="https://github.com/user-attachments/assets/1d6817ed-41f9-4d4f-80e9-b1e9b0427a2d" />
+
