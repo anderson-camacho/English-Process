@@ -55,3 +55,20 @@ for the today we see this
 
  <img width="581" height="563" alt="image" src="https://github.com/user-attachments/assets/1d6817ed-41f9-4d4f-80e9-b1e9b0427a2d" />
 
+
+ We see the vocabolary for Symptoms, medicien and colombian home remedies
+
+ <img width="1062" height="597" alt="image" src="https://github.com/user-attachments/assets/350365bd-7396-4d01-a310-343d46937462" />
+
+this is phrases
+<img width="1246" height="534" alt="image" src="https://github.com/user-attachments/assets/d53e0263-9881-42da-9132-a33dbec8ee25" />
+
+Modal Verb
+Modal Should
+
+<img width="628" height="593" alt="image" src="https://github.com/user-attachments/assets/346e9196-93f0-449a-a3ca-06b91ae75345" />
+
+ this is the excersice for the medical vocabolary
+ <img width="758" height="447" alt="image" src="https://github.com/user-attachments/assets/dc794dca-a68e-4caa-9dee-18a8a7771f4d" />
+
+
