@@ -71,4 +71,20 @@ Modal Should
  this is the excersice for the medical vocabolary
  <img width="758" height="447" alt="image" src="https://github.com/user-attachments/assets/dc794dca-a68e-4caa-9dee-18a8a7771f4d" />
 
+The next exercicse was
+
+<img width="913" height="417" alt="image" src="https://github.com/user-attachments/assets/4f1b3058-5660-4bab-95dd-8acb136b77cc" />
+
+✅ 1. We stay fit by running every morning.
+✅ 2. She feels relaxed after stretching at home.
+✅ 3. They go to the gym to improve their strength.
+✅ 4. His stamina increased by swimming regularly.
+✅ 5. I avoid injuries without overtraining.
+✅ 6. Maria listens to podcasts while cycling.
+✅ 7. Tom and Ana are really good at lifting weights.
+
+now the explenation was 
+
+this the present simple with the activities
+<img width="1058" height="582" alt="image" src="https://github.com/user-attachments/assets/a875dbf5-b81d-4c7b-9e23-8afff0f9c8b8" />
 
