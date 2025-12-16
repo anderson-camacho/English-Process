@@ -88,3 +88,87 @@ now the explenation was
 this the present simple with the activities
 <img width="1058" height="582" alt="image" src="https://github.com/user-attachments/assets/a875dbf5-b81d-4c7b-9e23-8afff0f9c8b8" />
 
+
+
+This class we learn about the suprlative adjectives wit superiorituve
+
+This is the explaination about the system for conjugation
+<img width="970" height="563" alt="image" src="https://github.com/user-attachments/assets/24c558f4-6a62-41ea-8716-ecd4e9717d60" />
+
+This is a excersis
+
+<img width="969" height="467" alt="image" src="https://github.com/user-attachments/assets/bb9b7e00-01be-41a1-b748-c8ad4a967528" />
+
+1.
+
+Palabras: morning / the / metro / in / busy / is / the
+Adjetivo: busy → busiest
+
+✅ Final sentence:
+The metro is the busiest in the morning.
+
+2.
+
+Palabras: comfortable / car / for / long / trips / the / is
+Adjetivo: comfortable → most comfortable
+
+✅ Final sentence:
+The car is the most comfortable for long trips.
+
+3.
+
+Palabras: means / plane / fast / of / is / the / transportation / the
+Adjetivo: fast → fastest
+
+✅ Final sentence:
+The plane is the fastest means of transportation.
+
+4.
+
+Palabras: city / bus / cheap / the / way / the / travel / in / to / is
+Adjetivo: cheap → cheapest
+
+✅ Final sentence:
+The bus is the cheapest way to travel in the city.
+
+5.
+
+Palabras: taxi / expensive / daily / the / for / use / is / the
+Adjetivo: expensive → most expensive
+
+✅ Final sentence:
+The taxi is the most expensive for daily use.
+
+6.
+
+Palabras: bicycle / good / the / health / your / for / is / the
+Adjetivo: good → best
+
+✅ Final sentence:
+The bicycle is the best for your health.
+
+7.
+
+Palabras: safe / the / way / travel / is / to / the / train
+Adjetivo: safe → safest
+
+✅ Final sentence:
+The train is the safest way to travel.
+
+8.
+
+Palabras: bad / traffic / the / during / is / the / rush / hour
+Adjetivo: bad → worst
+
+✅ Final sentence:
+The traffic is the worst during the rush hour.
+
+This is the new topic, AS
+<img width="776" height="585" alt="image" src="https://github.com/user-attachments/assets/e9596eeb-0790-4037-8b75-6840efd1bbd7" />
+
+
+this is another activity
+
+<img width="1056" height="575" alt="image" src="https://github.com/user-attachments/assets/5112af7e-3c7b-4003-b6f8-b935a86ed3a2" />
+
+
